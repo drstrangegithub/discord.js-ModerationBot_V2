@@ -6,7 +6,7 @@ Import the project into repl.it and then fill out your bot token in config.js fi
 Next put Your Bot token in the client secret option.. And then just run the bot!! Yes it's that easy to make your bot safe and Setting it up :)
 
 # Video setup guide
-Check out this **[Video](https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g)** For explained setup guide..
+Check out this **[Video](https://www.youtube.com/watch?v=S0_E9YdTGis&t=69s)** For explained setup guide..
 And if you want more easy bot tutorials Subscribe to the **[CHANNEL](https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g)** That will support me a lot!!
 
 **Thanks for Choosing MODERATION_V2**
